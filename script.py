@@ -15,3 +15,4 @@
 # optimize 1242
 # fix 2076
 # optimize 3328
+# optimize 7522
