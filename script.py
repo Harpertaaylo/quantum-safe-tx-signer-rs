@@ -22,3 +22,4 @@
 # optimize 3797
 # fix 6740
 # optimize 3546
+# refactor 8526
