@@ -1,0 +1,8 @@
+[package]
+name = "quantum-safe-tx-signer-rs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+pqcrypto-dilithium = "0.4"
+rlp = "0.5"
