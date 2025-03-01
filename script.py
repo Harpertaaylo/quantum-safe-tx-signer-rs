@@ -7,3 +7,4 @@
 # fix 1146
 # optimize 8590
 # fix 5942
+# fix 5522
